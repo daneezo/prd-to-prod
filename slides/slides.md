@@ -53,6 +53,10 @@ src: ./01-vibe-coding/03-when-vibe-works.md
 ---
 
 ---
+src: ./01-vibe-coding/04-trust-warning.md
+---
+
+---
 src: ./02-spec-driven/01-what-is-spec.md
 ---
 
@@ -114,6 +118,10 @@ src: ./05-environment/02-devcontainer.md
 
 ---
 src: ./05-environment/03-choose-ai.md
+---
+
+---
+src: ./05-environment/03b-when-to-use.md
 ---
 
 ---
